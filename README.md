@@ -26,11 +26,9 @@ Pockiq is built on an uncompromising privacy promise: **Your financial data belo
 
 ## 📥 Download & Install
 
-You can download the pre-compiled application package directly from the repository build outputs:
+### [👉 Download Pockiq APK (Latest Release) 👈](https://github.com/ShvmLibrary/Pockiq/releases/latest/download/Pockiq-v1.0-debug.apk)
 
-### [👉 Download Pockiq APK (Latest Debug Build) 👈](app/build/outputs/apk/debug/app-debug.apk)
-
-*Alternatively, clone the repository and build the APK locally using `./gradlew assembleDebug`.*
+*Alternatively, you can browse all versions on the [GitHub Releases Page](https://github.com/ShvmLibrary/Pockiq/releases), or clone the repository and build the APK locally using `./gradlew assembleDebug`.*
 
 ---
 
@@ -96,7 +94,7 @@ To ensure auto-import functions perfectly on your Android device, follow these q
 * Enabled SIM card receiving bank SMS alerts.
 
 ### ⚙️ Step-by-Step Configuration
-1. **Download and Install**: Click the [Download Link](app/build/outputs/apk/debug/app-debug.apk) above and install the APK on your device.
+1. **Download and Install**: Click the [Download Link](https://github.com/ShvmLibrary/Pockiq/releases/latest/download/Pockiq-v1.0-debug.apk) above and install the APK on your device.
 2. **Grant SMS Access**: When launching the app for the first time, tap **Allow** when prompted for SMS permissions. This enables Pockiq to sync missed transaction alerts spanning the last 48 hours.
 3. **Enable Notification Access**: 
    * Go to **Settings** $\rightarrow$ **Notification Access** (or search for *Device & App Notifications* in system settings).
