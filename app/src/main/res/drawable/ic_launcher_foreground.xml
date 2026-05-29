@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Wise glowing coin (wisdom/growth) -->
+    <path
+        android:fillColor="#F2F2F7"
+        android:pathData="M54,26 A12,12 0 1 1 53.9,26 Z" />
+    <!-- Dynamic arrow showing growth/wisdom on the coin -->
+    <path
+        android:fillColor="#121212"
+        android:pathData="M54,20 L60,26 L57,26 L57,32 L51,32 L51,26 L48,26 Z" />
+
+    <!-- Frosted, glassy wallet body (charcoal surface with borders) -->
+    <path
+        android:fillColor="#3A3A3C"
+        android:pathData="M24,46 h60 a8,8 0 0 1 8,8 v32 a8,8 0 0 1 -8,8 h-60 a8,8 0 0 1 -8,-8 v-32 a8,8 0 0 1 8,-8 z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#F2F2F7" />
+
+    <!-- Wallet diagonal front fold for style -->
+    <path
+        android:fillColor="#2C2C2E"
+        android:pathData="M24,64 L84,49 L84,94 L24,94 Z" />
+
+    <!-- Silver metal clip/flap clasp -->
+    <path
+        android:fillColor="#F2F2F7"
+        android:pathData="M70,60 h16 v16 h-16 z"
+        android:strokeWidth="1"
+        android:strokeColor="#AEAEB2" />
+    <!-- Clasp detail dot -->
+    <path
+        android:fillColor="#8E8E93"
+        android:pathData="M78,68 A2,2 0 1 1 77.9,68 Z" />
+</vector>
